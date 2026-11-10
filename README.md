@@ -1,31 +1,33 @@
 Community Learning Center Management System
 
 Description
-A console-based Dart application that manages learning resources and participants in a community learning center.
+- A console-based Dart application that manages learning resources and participants in a community learning center.
 
 Features
-Add learning resources
-Register participants
-Borrow learning resources
-Return learning resources
-View all registered records
-Check available and borrowed resources
-Validate user inputs
-Prevent duplicate IDs
-Technologies
-Dart Programming Language
-Object-Oriented Programming
-OOP Concepts
-Classes and Objects
-Constructors and Methods
-Encapsulation
-Inheritance
-Polymorphism
-Abstract Classes
-Mixins
-Lists and Maps
-Sample Test Scenarios
+- Add learning resources
+- Register participants
+- Borrow learning resources
+- Return learning resources
+- View all registered records
+- Check available and borrowed resources
+- Validate user inputs
+- Prevent duplicate IDs
 
+Technologies
+- Dart Programming Language
+- Object-Oriented Programming
+
+OOP Concepts
+- Classes and Objects
+- Constructors and Methods
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstract Classes
+- Mixins
+- Lists and Maps
+
+Sample Test Scenarios
 1. Valid Resource Registration
    - Add a learning resource with a unique ID.
    - Expected: Resource added successfully.
@@ -44,10 +46,7 @@ Sample Test Scenarios
 Run Instructions
 1. Install Dart SDK.
 2. Open the project folder in a terminal.
-3. Run:
-
-   dart main.dart
-
+3. Run: dart main.dart
 AI Use Declaration
 AI tools were used: ChatGPT.
 Purpose: Understanding Dart concepts, reviewing OOP requirements,
